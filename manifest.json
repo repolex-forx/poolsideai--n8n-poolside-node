@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "poolsideai",
+  "repo": "n8n-poolside-node",
+  "versions": [
+    {
+      "commit": "f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2",
+      "parsed_at": "2026-10-01T07:49:42.690329+00:00",
+      "tag": "main",
+      "filetree": "filetree/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2.nq.gz",
+      "blobs": [
+        "blob/380b6d7f1451e8273593184fb0c1c7d6f87c91da.nq.gz",
+        "blob/a9254750a71e8769a1836111346bc2015913974b.nq.gz",
+        "blob/2bd25b6ceff022f3dac545507e4aa2b2e4a7efea.nq.gz",
+        "blob/01639eee19b4c3b3ae1e2fd567ca15644b35b6db.nq.gz",
+        "blob/a903ff1025547c62fdc85e4cbdf911f51e4596b0.nq.gz",
+        "blob/ade19b656508e475c398014097529fb23094e64a.nq.gz",
+        "blob/4e98d97497b361ab942ee58e0fc2e99737b53470.nq.gz",
+        "blob/f6aab196863b9f791c10698a4459e8db2b3e3587.nq.gz",
+        "blob/a69bdc1bbb21683fbaa989012f2cfcb7b29e4876.nq.gz",
+        "blob/6836451734e94a74c6d1b84ad462c9c1512fb1e2.nq.gz",
+        "blob/caf35d25769fae65370bd37a63c952eb72b1abaf.nq.gz",
+        "blob/d80d5a1c7d04008bcf9eb320385555e9d5303274.nq.gz",
+        "blob/394b493442604a6d826bbc38fa2f11b63b9be3f5.nq.gz",
+        "blob/ee2842aa1740f201c4fbf5cb9f83f711e2159083.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
