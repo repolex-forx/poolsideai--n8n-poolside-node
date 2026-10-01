@@ -153,7 +153,9 @@
           "githubUrl": "https://github.com/typescript-eslint/typescript-eslint.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2/chunk-001.nq.gz",
+      "dep": "dep/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
