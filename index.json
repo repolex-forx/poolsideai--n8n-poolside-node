@@ -1,0 +1,11 @@
+{
+  "org": "poolsideai",
+  "repo": "n8n-poolside-node",
+  "versions": [
+    {
+      "commit": "f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2",
+      "tag": "main",
+      "parsed_at": "2026-10-01T07:56:16.164036+00:00"
+    }
+  ]
+}
