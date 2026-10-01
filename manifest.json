@@ -26,6 +26,133 @@
       ],
       "ast": [
         "aggregate/ast/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@n8n/ai-node-sdk",
+          "ecosystem": "NPM",
+          "version": "0.22.2",
+          "githubOrg": "n8n-io",
+          "githubRepo": "n8n",
+          "githubUrl": "git+https://github.com/n8n-io/n8n.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@n8n/eslint-plugin-community-nodes",
+          "ecosystem": "NPM",
+          "version": "0.27.0",
+          "githubOrg": "n8n-io",
+          "githubRepo": "n8n",
+          "githubUrl": "git+https://github.com/n8n-io/n8n.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "22.10.2",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@typescript-eslint/parser",
+          "ecosystem": "NPM",
+          "version": "8.65.0",
+          "githubOrg": "typescript-eslint",
+          "githubRepo": "typescript-eslint",
+          "githubCommit": "63ba81b6acfa0d663c29aa0013d4672bf3b0426c",
+          "githubTag": "v8.65.0",
+          "githubUrl": "https://github.com/typescript-eslint/typescript-eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "copyfiles",
+          "ecosystem": "NPM",
+          "version": "2.4.1",
+          "githubOrg": "calvinmetcalf",
+          "githubRepo": "copyfiles",
+          "githubCommit": "5e0b1a282237c78b7db7c02028424ea51091c0ac",
+          "githubTag": "v2.4.1",
+          "githubUrl": "git://github.com/calvinmetcalf/copyfiles.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "9.29.0",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "edf232b680390013c68f081a5e41843bcf2dd18f",
+          "githubTag": "v9.29.0",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-plugin-n8n-nodes-base",
+          "ecosystem": "NPM",
+          "version": "1.16.7",
+          "githubOrg": "ivov",
+          "githubRepo": "eslint-plugin-n8n-nodes-base",
+          "githubCommit": "9d75347c125160fe4d9f31f2fa8a8de11263721b",
+          "githubTag": "v1.16.7",
+          "githubUrl": "git+https://github.com/ivov/eslint-plugin-n8n-nodes-base.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jsonc-eslint-parser",
+          "ecosystem": "NPM",
+          "version": "3.1.0",
+          "githubOrg": "ota-meshi",
+          "githubRepo": "jsonc-eslint-parser",
+          "githubCommit": "03a4a3b634155f3c77c477dcc48eccfb11fe6d46",
+          "githubTag": "v3.1.0",
+          "githubUrl": "git+https://github.com/ota-meshi/jsonc-eslint-parser.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "n8n-workflow",
+          "ecosystem": "NPM",
+          "version": "2.16.0",
+          "githubOrg": "n8n-io",
+          "githubRepo": "n8n",
+          "githubUrl": "git+https://github.com/n8n-io/n8n.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rimraf",
+          "ecosystem": "NPM",
+          "version": "5.0.10",
+          "githubOrg": "isaacs",
+          "githubRepo": "rimraf",
+          "githubCommit": "982faa77dc2398f5e4e1daa9a8f35d3bb82168c0",
+          "githubTag": "v5.0.10",
+          "githubUrl": "git+ssh://git@github.com/isaacs/rimraf.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.7.2",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "d701d908d534e68cfab24b6df15539014ac348a3",
+          "githubTag": "v5.7.2",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript-eslint",
+          "ecosystem": "NPM",
+          "version": "8.65.0",
+          "githubOrg": "typescript-eslint",
+          "githubRepo": "typescript-eslint",
+          "githubCommit": "63ba81b6acfa0d663c29aa0013d4672bf3b0426c",
+          "githubTag": "v8.65.0",
+          "githubUrl": "https://github.com/typescript-eslint/typescript-eslint.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
