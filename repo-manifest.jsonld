@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/poolsideai/n8n-poolside-node/commit/f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2",
       "git:hexsha": "f8e2b8201bfbcfcbb007788ac0dcdb688e3177e2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.3"
     },
     {
